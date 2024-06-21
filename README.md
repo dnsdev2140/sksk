@@ -4,3 +4,4 @@
 
 * Jangan lupa sertakan nama di komentar kode kalian
 
+* Setup ssh key untuk Github
